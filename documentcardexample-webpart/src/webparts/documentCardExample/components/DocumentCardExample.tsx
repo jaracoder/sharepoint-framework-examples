@@ -26,7 +26,7 @@ export default class DocumentCardExample extends React.Component<IDocumentCardEx
         <DocumentCardPreview { ...previewProps } />
         <DocumentCardTitle title='Revenue stream proposal fiscal year 2016 version02.pptx' />
         <DocumentCardActivity activity='Created Feb 23, 2016' people={[{ 
-          name: 'Kat Larrson', 
+          name: 'Juan Antonio Ripoll', 
           profileImageSrc: String(require('./avatar-kat.png')) 
         }]} />
       </DocumentCard>
