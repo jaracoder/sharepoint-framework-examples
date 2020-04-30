@@ -20,7 +20,7 @@
     "@types/jquery": "^2.0.53",
     "@types/jqueryui": "^1.12.7",
     "@types/webpack-env": "1.13.1",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "jqueryui": "^1.11.1"
   },
   "devDependencies": {
